@@ -17,11 +17,11 @@
  *   following disclaimer in the documentation and/or other
  *   materials provided with the distribution.
  * 
- *   Neither the name of IIIA-CSIC, Artificial Intelligence Research Institute 
+ *   Neither the name of la3.org 
  *   nor the names of its contributors may be used to
  *   endorse or promote products derived from this
  *   software without specific prior written permission of
- *   IIIA-CSIC, Artificial Intelligence Research Institute
+ *   Marc Pujol.
  * 
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
  * AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
